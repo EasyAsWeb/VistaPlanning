@@ -1236,6 +1236,7 @@ General Styles - Owlcarousel
   }
 }
 
+
 /*--------------------------------------------------------------
 	Navbar
 --------------------------------------------------------------*/
@@ -1266,6 +1267,13 @@ General Styles - Owlcarousel
 .navbar-custom .navbar-brand {
   letter-spacing: 4px;
   font-weight: 400;
+  font-size: 20px;
+  color: #fff;
+}
+
+.navbar-custom .navbar-vista {
+  letter-spacing: 4px;
+  font-weight: 600;
   font-size: 20px;
   color: #fff;
 }
