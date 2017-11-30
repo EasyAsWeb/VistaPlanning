@@ -50,8 +50,8 @@
 	$email = $_POST['email'];
 	$message = $_POST['message'];
 	$from = $email;
-	$to = 'info@example.com';  // please change this email id
-	$subject = 'Contact Form : Customer Quote No1 Finance';
+	$to = 'andreas@vistaplanning.co.nz';  // please change this email id
+	$subject = 'Contact Form : Customer Enquiry - Vista Planning';
 
 	$body = "From: $name\n E-Mail: $email\n Message:\n $message";
 
